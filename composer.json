@@ -1,7 +1,7 @@
 {
-    "name": "linkorb/phpui",
+    "name": "linkorb/phpcsui",
     "description": "PHPCS User Interface",
-    "homepage": "http://www.github.com/linkorb/phpcs",
+    "homepage": "http://www.github.com/linkorb/phpcsui",
     "keywords": ["php", "phpcs", "psr"],
     "type": "application",
     "authors": [
