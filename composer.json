@@ -1,0 +1,27 @@
+{
+    "name": "linkorb/phpui",
+    "description": "PHPCS User Interface",
+    "homepage": "http://www.github.com/linkorb/phpcs",
+    "keywords": ["php", "phpcs", "psr"],
+    "type": "application",
+    "authors": [
+        {
+            "name": "Joost Faassen",
+            "email": "j.faassen@linkorb.com",
+            "role": "Development"
+        }
+    ],
+    "require": {
+        "silex/silex": "2.0.*@dev",
+        "twig/twig": "1.16.*@dev",
+        "squizlabs/php_codesniffer": "dev-master"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "4.2.*@dev"
+    },
+    "autoload": {
+        "psr-4": {
+            "PhpCsUi\\": "src/"
+        }
+    }
+}

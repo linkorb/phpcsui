@@ -1,0 +1,14 @@
+{
+  "name": "linkorb",
+  "directory": "web/bower_components",
+  "version": "0.0.1",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ],
+  "dependencies": {
+    "admin-lte": "1.2.1",
+    "jquery": "2.1.1"
+  }
+}
